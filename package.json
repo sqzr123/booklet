@@ -1,0 +1,15 @@
+{
+    "name": "booklet",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/fe-zero/booklet.git",
+    "author": "wsWangjinxu <1576520768@qq.com>",
+    "license": "MIT",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.51"
+    }
+}
